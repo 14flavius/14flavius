@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 14flavius</h1>
-<h3 align="center">A creative young Java Developer from Germany</h3>
+<h3 align="center">A creative young Developer from Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=14flavius&label=Profile%20views&color=0e75b6&style=flat" alt="14flavius" /> </p>
 
@@ -8,4 +8,4 @@
 - 🖥️ I have been coding for **2 years**
 - 🖌️ In addition to coding, I can also: **Designing Graphics and Editing Videos**
 - ⚡️ What do I want to do here? **I want to improve my programming skills with a large community.**
-- 👾 My Discord: **14flaviuss**
+- 👾 My Discord: **14flavius**
